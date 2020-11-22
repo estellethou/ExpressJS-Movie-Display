@@ -42,3 +42,7 @@ You can use Postman to test all the Apis. In this project I only create GET rout
 
 ## Frameworks 
 ExpressJS, NodeJS, bootstrap CSS
+
+## Tutorial
+Here is the tutorial on which I based my project [Build Node.js Rest APIs with Express & MySQL](https://bezkoder.com/node-js-rest-api-express-mysql/) 
+
