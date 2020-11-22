@@ -1,8 +1,8 @@
 module.exports = app => {
     const movies = require("../controllers/movie.controller.js");
 
-     // Retrieve 20 firsts movies with producer and genre
-     app.get("/api/movies/all", movies.findTwentyWithGenreProducer);
+    // Retrieve 20 firsts movies with producer and genre
+    app.get("/api/movies/all", movies.findTwentyWithGenreProducer);
   
     // Retrieve 20 firsts movies
     app.get("/api/movies", movies.findTwenty);
