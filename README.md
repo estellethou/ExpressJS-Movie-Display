@@ -38,7 +38,7 @@ You can use Postman to test all the Apis. In this project I only create GET rout
 ![presentation site web](image/presentation.png) 
 
 ## Modal
-![presentation site web](image/modal.png) 
+![presentation site web](image/modals.png) 
 
 ## Frameworks 
 ExpressJS, NodeJS, bootstrap CSS
